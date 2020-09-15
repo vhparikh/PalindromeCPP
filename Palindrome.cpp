@@ -1,5 +1,5 @@
 //Created by Vatsal Parikh
-//Date 9/17/20
+//Date 9/14/20
 //The computer checks to see if a word is a palindrome
 
 //imports
